@@ -1,3 +1,3 @@
-require "allwyin/vamsi.rb"
+require "allwyn/vamsi.rb"
 module Allwyn
 end
